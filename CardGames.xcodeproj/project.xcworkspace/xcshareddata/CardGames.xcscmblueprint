@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "18953732B771717E9C9E3718445984496F044FEB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "18953732B771717E9C9E3718445984496F044FEB" : 0,
+    "8BFC1872F6A01257E1D1401461015AD2A4205F22" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "23A4F55E-91CE-4C29-9FC6-BD8581FBD723",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "18953732B771717E9C9E3718445984496F044FEB" : "CardGames.xcodeproj\/",
+    "8BFC1872F6A01257E1D1401461015AD2A4205F22" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MarkGrayson\/CardGames.xcodeproj.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "18953732B771717E9C9E3718445984496F044FEB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MarkGrayson\/Swift-Folder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8BFC1872F6A01257E1D1401461015AD2A4205F22"
+    }
+  ]
+}
