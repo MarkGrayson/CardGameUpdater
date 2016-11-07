@@ -10,5 +10,15 @@ import UIKit
 
 class CardGameController : UIViewController
 {
+    private lazy var clickCount = Int()
+    private lazy var cardDeck = PlayingCardDeck()
     
+    
+    
+    
+    override func viewDidLoad() -> Void
+    {
+        let tempCard = Card()
+        print(tempCard.toString())
+    }
 }
