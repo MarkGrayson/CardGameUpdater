@@ -59,5 +59,29 @@ class PlayingCard : Card
 
     class func validSuits() -> [String]
     {
-        return ["]
+        return ["♠️", "♣️", "♥️", "♦️"]
     }
+
+
+    override func toString() -> String
+    {
+        
+        
+        let backStatus : String
+        if super.isFacing()
+        {
+            backStatus = " is face up"
+        }
+        else
+        {
+            backStatus = " is face down"
+        }
+        
+        
+        
+        
+        let description = "This playing card ranks is: \(rank) and its suit is: \(suit). And it has a color of: \(color) And it backStatus is: \(backStatus) "
+        
+        return description
+    }
+

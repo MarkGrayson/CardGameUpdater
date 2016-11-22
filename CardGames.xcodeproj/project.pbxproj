@@ -16,6 +16,7 @@
 		32AEF5A51DC7C50100018BED /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEF5A41DC7C50100018BED /* PlayingCardDeck.swift */; };
 		32AEF5A71DC7C55100018BED /* CardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEF5A61DC7C55100018BED /* CardDeck.swift */; };
 		32AEF5A91DC7CA0F00018BED /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEF5A81DC7CA0F00018BED /* PlayingCard.swift */; };
+		32EF9F111DD6578100CEDA29 /* MatchingGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF9F101DD6578100CEDA29 /* MatchingGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		32AEF5A41DC7C50100018BED /* PlayingCardDeck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PlayingCardDeck.swift; path = Model/PlayingCardDeck.swift; sourceTree = "<group>"; };
 		32AEF5A61DC7C55100018BED /* CardDeck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardDeck.swift; sourceTree = "<group>"; };
 		32AEF5A81DC7CA0F00018BED /* PlayingCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
+		32EF9F101DD6578100CEDA29 /* MatchingGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MatchingGame.swift; path = Model/MatchingGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				32AEF5A41DC7C50100018BED /* PlayingCardDeck.swift */,
 				32AEF5A61DC7C55100018BED /* CardDeck.swift */,
 				32AEF5A81DC7CA0F00018BED /* PlayingCard.swift */,
+				32EF9F101DD6578100CEDA29 /* MatchingGame.swift */,
 			);
 			path = CardGames;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			files = (
 				32492A681DC2768900B10CF7 /* AppDelegate.swift in Sources */,
 				32AEF5A71DC7C55100018BED /* CardDeck.swift in Sources */,
+				32EF9F111DD6578100CEDA29 /* MatchingGame.swift in Sources */,
 				32AEF5A51DC7C50100018BED /* PlayingCardDeck.swift in Sources */,
 				32492A7A1DC277BE00B10CF7 /* CardGames.swift in Sources */,
 				32AEF5A91DC7CA0F00018BED /* PlayingCard.swift in Sources */,
